@@ -9,4 +9,3 @@ python3 generated_ngram_supervised2.py in_file out_file 3
 #Fine tuning
 chmod +x ./run_fine_tune.sh
 ./run_fine_tune.sh
-
