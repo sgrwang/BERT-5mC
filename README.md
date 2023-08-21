@@ -10,7 +10,7 @@ Code of our paper: [BERT-5mC: an interpretable model for predicting 5-methylcyto
     - **[Extract embedding ](#extract-embedding)**<br>
 - **[Example Usage](#example-usage)**<br>
     - **[Environment Setup](#environment-setup)**<br>
-    - **[Data Preparation](#data preparation)**<br>
+    - **[Data Preparation](#data-preparation)**<br>
     - **[Start predicting ](#start-predicting)**<br>
 - **[Getting Help](#getting-help)**<br>
 
