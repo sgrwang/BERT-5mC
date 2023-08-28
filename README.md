@@ -1,6 +1,6 @@
 # BERT-5mC: an interpretable model for predicting 5-methylcytosine sites of DNA based on BERT
 **Authors**: Shuyu Wang, Yinbo Liu, Yufeng Liu, Yong Zhang, and Xiaolei Zhu
-Code of our paper: [BERT-5mC: an interpretable model for predicting 5-methylcytosine sites of DNA based on BERT].
+**Code of our paper**: [BERT-5mC: an interpretable model for predicting 5-methylcytosine sites of DNA based on BERT].
 
 
 # Table of Contents
